@@ -1,0 +1,6 @@
+c:\users\димитрий\documents\visual studio 2013\Projects\chat\chat\bin\Debug\chat.exe.config
+C:\Users\Димитрий\Documents\Visual Studio 2013\Projects\chat\chat\bin\Debug\chat.exe
+C:\Users\Димитрий\Documents\Visual Studio 2013\Projects\chat\chat\bin\Debug\chat.pdb
+C:\Users\Димитрий\Documents\Visual Studio 2013\Projects\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+C:\Users\Димитрий\Documents\Visual Studio 2013\Projects\chat\chat\obj\Debug\chat.exe
+C:\Users\Димитрий\Documents\Visual Studio 2013\Projects\chat\chat\obj\Debug\chat.pdb
